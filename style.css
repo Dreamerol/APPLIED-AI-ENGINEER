@@ -35,7 +35,6 @@ body{
   cursor:pointer;
 }
 
-
 .nav-overlay{
   position:absolute;
   top:2.5%;
@@ -126,15 +125,4 @@ body{
     height:13%;
     gap:6%;
   }
-
-
-  /* DESKTOP FIX */
-@media(min-width:701px){
-  .hero{
-    transform:scale(0.82);
-    transform-origin:top center;
-    width:121.95%;
-    margin-left:-10.975%;
-  }
-}
 }
