@@ -168,11 +168,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-**THINK DEEPLY. BUILD WITH INTENT.**
-
-*Engineering intelligent systems. Transforming data into insight. Turning ideas into software.*
-
-
 
 </div>
 
