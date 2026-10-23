@@ -180,17 +180,17 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 ## 👩‍💻 About Me
 
-I am a Software Engineer with a strong mathematical and algorithmic foundation developed at the **Sofia High School of Mathematics (SMG)**.
+I am a Software Engineer with a strong mathematical and algorithmic foundation shaped by my academic background at the **Sofia High School of Mathematics (SMG)** and the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski."**
 
-My interests lie at the intersection of **Artificial Intelligence, Applied Machine Learning, Data Science, and Software Engineering**. I focus on understanding the principles behind intelligent systems and translating them into structured, practical, and maintainable software solutions.
+My work explores the intersection of **Artificial Intelligence, Applied Machine Learning, Data Science, and Software Engineering**, with a focus on understanding intelligent systems and translating complex concepts into practical, maintainable software solutions.
 
-My engineering approach combines computer science fundamentals with data-driven methodologies to explore problems, design solutions, and build reliable implementations.
+My engineering approach combines mathematical reasoning, computer science fundamentals, and data-driven methodologies to analyze problems, design effective solutions, and develop reliable software systems.
 
 ### Areas of Focus
 
 - Artificial Intelligence & Applied Machine Learning
-- Data Analysis, Statistical Modeling & Predictive Analytics
-- Backend Development & REST API Design
+- Data Science, Statistical Modeling & Predictive Analytics
+- Backend Development & REST API Architecture
 - Data Structures, Algorithms & Object-Oriented Programming
 - Computational Neuroscience & Neural Network Modeling
 
