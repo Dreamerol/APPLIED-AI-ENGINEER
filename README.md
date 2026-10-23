@@ -300,7 +300,7 @@ A scientific computing project exploring biological neuron dynamics through the 
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
