@@ -214,7 +214,7 @@ A project hub dedicated to machine learning concepts, neural network architectur
 
 **Focus:** Machine Learning · Neural Networks · Computer Vision · Data Pipelines
 
-[Explore AI-STUDIO →](https://github.com/Dreamerol)
+[Explore AI-STUDIO →](https://github.com/Dreamerol/AI-STUDIO/)
 
 ### 🗂️ 02 — CARDFOLIO
 
@@ -224,7 +224,7 @@ A structured collection of computer science concepts and implementations, coveri
 
 **Focus:** Algorithms · Data Structures · OOP · SQL · Linux
 
-[Explore CARDFOLIO →](https://github.com/Dreamerol)
+[Explore CARDFOLIO →](https://github.com/Dreamerol/CARDFOLIO)
 
 ### 💊 03 — PLACEBO-EFFECT-ML
 
@@ -234,7 +234,7 @@ A research-oriented project exploring clinical trial data through exploratory da
 
 **Focus:** Clinical Data · EDA · Statistical Analysis · Predictive Modeling
 
-[Explore PLACEBO-EFFECT-ML →](https://github.com/Dreamerol)
+[Explore PLACEBO-EFFECT-ML →](https://github.com/Dreamerol/PLACEBO-EFFECT-ML)
 
 ### 📈 04 — PROFIT-PREDICTOR-ML
 
@@ -244,7 +244,7 @@ A machine learning project focused on analyzing seasonal business patterns and f
 
 **Focus:** Business Analytics · Regression · Decision Trees · Forecasting
 
-[Explore PROFIT-PREDICTOR-ML →](https://github.com/Dreamerol)
+[Explore PROFIT-PREDICTOR-ML →](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML)
 
 ### 🧠 05 — SNN-NEURAL-ACTIVITY
 
@@ -254,7 +254,7 @@ A scientific computing project exploring biological neuron dynamics through the 
 
 **Focus:** Computational Neuroscience · Neuron Models · Numerical Methods · SNNs
 
-[Explore SNN-NEURAL-ACTIVITY →](https://github.com/Dreamerol)
+[Explore SNN-NEURAL-ACTIVITY →](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY)
 
 ---
 
