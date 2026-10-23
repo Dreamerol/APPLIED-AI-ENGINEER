@@ -166,7 +166,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 *Engineering intelligent systems. Transforming data into insight. Turning ideas into software.*
 
-mg.shields.io/badge/Website-Mihaela%20Koseva-2962FF?style=flat-square)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
+
 
 </div>
 
