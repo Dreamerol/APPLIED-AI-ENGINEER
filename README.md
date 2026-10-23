@@ -150,6 +150,131 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+<br>
+
+<br>
+
+
+
+
+# 🟢 APPLIED AI/ML & DATA PORTFOLIO
+
+<div align="center">
+
+**THINK DEEPLY. BUILD WITH INTENT.**
+
+*Engineering intelligent systems. Transforming data into insight. Turning ideas into software.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00A86B?style=flat-square)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dreamerol-181717?style=flat-square&logo=github)](https://github.com/Dreamerol)
+[![Website](https://img.shields.io/badge/Website-Mihaela%20Koseva-2962FF?style=flat-square)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I am a Software Engineering student at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**, with a strong mathematical and algorithmic foundation developed at the **Sofia High School of Mathematics (SMG)**.
+
+My interests lie at the intersection of **Artificial Intelligence, Applied Machine Learning, Data Science, and Software Engineering**. I focus on understanding the principles behind intelligent systems and translating them into structured, practical, and maintainable software solutions.
+
+My engineering approach combines computer science fundamentals with data-driven methodologies to explore problems, design solutions, and build reliable implementations.
+
+### Areas of Focus
+
+- Artificial Intelligence & Applied Machine Learning
+- Data Analysis, Statistical Modeling & Predictive Analytics
+- Backend Development & REST API Design
+- Data Structures, Algorithms & Object-Oriented Programming
+- Computational Neuroscience & Neural Network Modeling
+
+---
+
+## 🧩 Featured Projects
+
+This portfolio brings together five specialized project domains, each exploring a different aspect of computing, intelligent systems, and data-driven engineering.
+
+### ⚛️ 01 — AI-STUDIO
+
+**Applied Artificial Intelligence & Machine Learning**
+
+A project hub dedicated to machine learning concepts, neural network architectures, and computer vision. Focus areas include practical model implementations, data processing pipelines, and deep learning workflows.
+
+**Focus:** Machine Learning · Neural Networks · Computer Vision · Data Pipelines
+
+[Explore AI-STUDIO →](https://github.com/Dreamerol)
+
+### 🗂️ 02 — CARDFOLIO
+
+**Computer Science Fundamentals & Systems**
+
+A structured collection of computer science concepts and implementations, covering algorithms, data structures, object-oriented design, relational databases, and Linux-based environments.
+
+**Focus:** Algorithms · Data Structures · OOP · SQL · Linux
+
+[Explore CARDFOLIO →](https://github.com/Dreamerol)
+
+### 💊 03 — PLACEBO-EFFECT-ML
+
+**Clinical Data Science & Statistical Modeling**
+
+A research-oriented project exploring clinical trial data through exploratory data analysis, statistical methods, and predictive modeling, with an emphasis on investigating patterns in psychological and physiological responses.
+
+**Focus:** Clinical Data · EDA · Statistical Analysis · Predictive Modeling
+
+[Explore PLACEBO-EFFECT-ML →](https://github.com/Dreamerol)
+
+### 📈 04 — PROFIT-PREDICTOR-ML
+
+**Business Analytics & Predictive Modeling**
+
+A machine learning project focused on analyzing seasonal business patterns and forecasting business outcomes. Regression techniques and decision tree models provide a framework for exploring trends, identifying potential opportunities, and assessing business risks.
+
+**Focus:** Business Analytics · Regression · Decision Trees · Forecasting
+
+[Explore PROFIT-PREDICTOR-ML →](https://github.com/Dreamerol)
+
+### 🧠 05 — SNN-NEURAL-ACTIVITY
+
+**Computational Neuroscience & Spiking Neural Networks**
+
+A scientific computing project exploring biological neuron dynamics through the **Hodgkin–Huxley** and **Izhikevich** models. Numerical simulation using Euler's method supports the study of neuronal activity and information representation through spikes in spiking neural networks (SNNs).
+
+**Focus:** Computational Neuroscience · Neuron Models · Numerical Methods · SNNs
+
+[Explore SNN-NEURAL-ACTIVITY →](https://github.com/Dreamerol)
+
+---
+
+## 🛠️ Technology Stack
+
+### Programming Languages
+
+`Python` · `C++` · `Java` · `SQL` · `Clojure` · `HTML5` · `CSS3`
+
+### AI & Machine Learning
+
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `NumPy` · `Pandas`
+
+### Data & Analytics
+
+`ETL Pipelines` · `Feature Engineering` · `Exploratory Data Analysis` · `Time Series Analysis` · `Statistical Modeling`
+
+### Software Engineering & Tools
+
+`REST APIs` · `Relational Databases` · `Object-Oriented Programming` · `Git` · `GitHub` · `Linux`
+
+---
+
+## 🧠 Engineering Principles
+
+- **Understand the Fundamentals.** Build on mathematical reasoning, algorithms, and sound computer science principles.
+- **Design with Purpose.** Structure software around clear responsibilities, maintainability, and well-defined interfaces.
+- **Learn Through Implementation.** Connect theory with practical experimentation, analysis, and code.
+- **Build for Reliability.** Value readable implementations, systematic problem-solving, and reproducible workflows.
+
+---
 
 
 
