@@ -173,6 +173,9 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <br>
 
 
+<br>
+
+
 
 <div align="left">
 
@@ -282,8 +285,12 @@ A scientific computing project exploring biological neuron dynamics through the 
 - **Learn Through Implementation.** Connect theory with practical experimentation, analysis, and code.
 - **Build for Reliability.** Value readable implementations, systematic problem-solving, and reproducible workflows.
 
+
 ---
 
+
+
+
 </div>
 
 </div>
@@ -294,7 +301,7 @@ A scientific computing project exploring biological neuron dynamics through the 
 
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
