@@ -158,7 +158,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 <div align="center">
 
-# 🟢 <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 | 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
+# ⚛️ <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 | 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟 & 𝗗𝗔𝗧𝗔 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
 
 </div>
 
