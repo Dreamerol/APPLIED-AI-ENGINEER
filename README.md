@@ -155,21 +155,27 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <br>
 
 
+<div align="center">
 
 
 # 🟢 APPLIED AI/ML & DATA PORTFOLIO
 
-<div align="center">
+
 
 **THINK DEEPLY. BUILD WITH INTENT.**
 
 *Engineering intelligent systems. Transforming data into insight. Turning ideas into software.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00A86B?style=flat-square)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
-[![GitHub](https://img.shields.io/badge/GitHub-Dreamerol-181717?style=flat-square&logo=github)](https://github.com/Dreamerol)
-[![Website](https://img.shields.io/badge/Website-Mihaela%20Koseva-2962FF?style=flat-square)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
+mg.shields.io/badge/Website-Mihaela%20Koseva-2962FF?style=flat-square)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
 
 </div>
+
+
+
+<div align="left">
+
+<div align="left">
+
 
 ---
 
@@ -276,7 +282,9 @@ A scientific computing project exploring biological neuron dynamics through the 
 
 ---
 
+</div>
 
+</div>
 
 
 
