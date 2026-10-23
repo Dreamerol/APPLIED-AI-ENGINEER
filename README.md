@@ -180,7 +180,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 ## 👩‍💻 About Me
 
-I am a Software Engineering student at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**, with a strong mathematical and algorithmic foundation developed at the **Sofia High School of Mathematics (SMG)**.
+I am a Software Engineer with a strong mathematical and algorithmic foundation developed at the **Sofia High School of Mathematics (SMG)**.
 
 My interests lie at the intersection of **Artificial Intelligence, Applied Machine Learning, Data Science, and Software Engineering**. I focus on understanding the principles behind intelligent systems and translating them into structured, practical, and maintainable software solutions.
 
